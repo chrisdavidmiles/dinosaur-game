@@ -1,0 +1,11 @@
+/*!
+ * game-style.css | Dinosaur Game WordPress Plugin | https://wordpress.org/plugins/dinosaur-game
+ * This plugin is free to use under the GPLv2 license. | https://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * This file contains CSS forked from the 'T-Rex runner' game in Chromium.
+ * Chromium is under Copyright 2015 by The Chromium Authors. All rights reserved. 
+ * See also: https://cs.chromium.org/chromium/src/LICENSE
+ *
+ */
+
+.dino-outer:first-of-type{display:block;border:1px solid #535353;margin:1em auto;background:rgba(255,255,255,.5)}.dino-icon{-webkit-user-select:none;user-select:none;display:inline-block}.dino-outer .dino-inner{color:#2b2b2b;line-height:0;font-size:0;margin:16px auto;max-width:600px;width:100%}.dino-outer .dino-container{max-width:600px;overflow:hidden;width:100%}.dino-outer .dino-canvas{max-width:600px;opacity:1;overflow:hidden;z-index:2}.dino-outer .controller{background:rgba(247,247,247,.1);left:0;width:100vw;z-index:1}#dinosaur-game,[id^=dino-game-sprites]{display:none}.dino-outer::before{content:"The dinosaur game can only be used once per post."}.dino-outer:first-of-type::before{content:none}
