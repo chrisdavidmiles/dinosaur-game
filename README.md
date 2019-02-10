@@ -9,6 +9,9 @@ Dinosaur Game plugin for WordPress based on the T-Rex Runner game in Chromium.
 This plugin lets you add the dinosaur game from Chromium into your WordPress site. To use it, install the plugin, and use the `[dinosaur-game]` shortcode wherever you'd like the game to appear. 
 <hr>
 
+## How to play
+The object of the game is to run as far as possible. Enemies and obstacles will block your path. Use the space bar or up key on your keyboard to jump over them. The down key lets you crouch. On mobile, tab on the game area to jump. Jump to start playing.
+
 ## FAQ
 <details><summary>Can I change how the game looks?</summary><p>
 
