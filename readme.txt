@@ -24,8 +24,8 @@ Yes! The HTML markup of the game has classes that make it easy to apply CSS to t
 
 = Can I use this on a 404 page or another template file? =
 
-Yes! In fact, you can put this game anywhere on your site that you can put a shortcode. Inside post/page content you can use [dinosaur-plugin]. In a PHP template file you can use:
-`&amp;lt;?php echo do_shortcode('[dinosaur-plugin]');?&amp;gt;`
+Yes! In fact, you can put this game anywhere on your site that you can put a shortcode. Inside post/page content you can use [dinosaur-game]. In a PHP template file you can use:
+`&amp;lt;?php echo do_shortcode('[dinosaur-game]');?&amp;gt;`
 
 = I don't see the game showing up. What should I do? =
 
