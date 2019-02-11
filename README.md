@@ -30,7 +30,7 @@ Yes! Anywhere that you can use a shortcode, you can insert this game. Inside pos
 <br>
 <details><summary>I don't see the game showing up. What should I do?</summary><p>
 <ul>
-  <li>If you see an error message "The dinosaur game can only be used once per post." then that means the page is trying to show the shortcode more than once. Since the game binds to keys (up, down, and spacebar) it wouldn't work well with multiple instances of the page on a single page. So this game only works once per page/post.</li>
+  <li>If you see an error message "The dinosaur game can only be used once per post." then that means the page is trying to show the shortcode more than once. Since the game binds to keys (up, down, and spacebar) it wouldn't work well to have multiple instances of the game on a single page. So this game only runs once per page or post.</li>
   <li>If you don't see an error message, and the shortcode still isn't working, check your php error log or turn on debug mode to see if another plugin or theme is interfering with this plugin.<br><br>
    Also feel free to ask a question on the <a href="https://wordpress.org/support/plugin/dinosaur-game/">WordPress.org support forum</a>.</li>
 </ul>
