@@ -1,12 +1,14 @@
 <?php
-/*
-Plugin Name: Dinosaur Game
-Description: Add the dinosaur game from Chromium to your site using the [dinosaur-game] shortcode.
-Author: Chris David Miles
-Version: 1.0
-Author URI: https://chrisdavidmiles.com
-Text Domain: dinosaur-game
-*/
+/**
+ * Plugin Name: Dinosaur Game
+ * Plugin URI: https://chrisdavidmiles.com/dinosaur-game
+ * Description: Add the dinosaur game from Chrome to your site using the [dinosaur-game] shortcode.
+ * Version: 1.0
+ * Author: Chris David Miles
+ * Author URI: https://chrisdavidmiles.com
+ * License: GPL2
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ */
 
 // Do not access this file directly.
 if ( ! defined( 'ABSPATH' ) )  die; 
