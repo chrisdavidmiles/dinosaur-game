@@ -6,7 +6,7 @@ Requires at least: 3.3
 Tested up to: 5.0.3
 Requires PHP: 5.2.4
 Stable tag: trunk
-License: GPLv2 or later
+License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Add the dinosaur game from Chromium to your site using the [dinosaur-game] shortcode.
