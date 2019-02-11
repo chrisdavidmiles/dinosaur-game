@@ -20,7 +20,7 @@ defined( 'DINOGAME_URL' ) or define( 'DINOGAME_URL', plugin_dir_url( __FILE__ ) 
 // Register CSS and JS used by the game.
 add_action( 'wp_enqueue_scripts', 'dinogame_js_css' );
 function dinogame_js_css() {
-    wp_register_script( 'dinosaur-game-logic', plugins_url( 'game-logic.min.js', __FILE__), '', DINOGAME_VERSION, true );
+    wp_register_script( 'dinosaur-game-logic', plugins_url( 'game-logic.min.js', __FILE__), array('jquery'), DINOGAME_VERSION, true );
     wp_register_style( 'dinosaur-game-style', plugins_url( 'game-style.min.css', __FILE__), '', DINOGAME_VERSION );
 }
 
