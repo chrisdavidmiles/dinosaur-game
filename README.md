@@ -2,9 +2,9 @@
 
 Dinosaur Game plugin for WordPress based on the T-Rex Runner game in Chromium.
 
-[Demo](https://chrisdavidmiles.com/dinosaur-game) &middot; [Download](https://github.com/chrisdavidmiles/assets/raw/dinosaur-game/dinosaur-game.zip)
+[Demo](https://chrisdavidmiles.com/dinosaur-game) &middot; [Download](https://wordpress.org/plugins/dinosaur-game)
 <br><br>
-[![Dinosaur Game WordPress Plugin](https://github.com/chrisdavidmiles/assets/blob/dinosaur-game/dino-banner-250x55px.svg)](https://chrisdavidmiles.com/dinosaur-game)
+[![Dinosaur Game WordPress Plugin](https://github.com/chrisdavidmiles/assets/blob/dinosaur-game/dino-banner-250x55px.svg)](https://wordpress.org/plugins/dinosaur-game)
  
 This plugin lets you add the dinosaur game from Chromium into your WordPress site. To use it, install the plugin, and use the `[dinosaur-game]` shortcode wherever you'd like the game to appear. 
 <hr>
