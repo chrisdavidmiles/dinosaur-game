@@ -42,6 +42,7 @@
   opacity: 1;
   overflow: hidden;
   z-index: 2;
+  position: static;
 }
 
 .dino-outer .controller {
@@ -54,12 +55,4 @@
 #dinosaur-game,
 [id^=dino-game-sprites] {
   display: none;
-}
-
-.dino-outer::before {
-  content: "The dinosaur game can only be used once per post.";
-}
-
-.dino-outer:first-of-type::before {
-  content: none;
 }
