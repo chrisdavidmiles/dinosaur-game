@@ -76,4 +76,3 @@ Also feel free to ask a question on the [WordPress.org support forum](https://wo
 
 = 1.0.0 =
 * Initial release.
-
